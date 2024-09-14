@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/plant_classification_project_ui/static/css/main.dc4d6ff2.css",
+    "main.js": "/plant_classification_project_ui/static/js/main.ad7db2a5.js",
+    "static/js/453.234d4ff6.chunk.js": "/plant_classification_project_ui/static/js/453.234d4ff6.chunk.js",
+    "index.html": "/plant_classification_project_ui/index.html",
+    "main.dc4d6ff2.css.map": "/plant_classification_project_ui/static/css/main.dc4d6ff2.css.map",
+    "main.ad7db2a5.js.map": "/plant_classification_project_ui/static/js/main.ad7db2a5.js.map",
+    "453.234d4ff6.chunk.js.map": "/plant_classification_project_ui/static/js/453.234d4ff6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.ad7db2a5.js"
+  ]
+}
